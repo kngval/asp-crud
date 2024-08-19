@@ -1,0 +1,8 @@
+# .NET Build results
+bin/
+obj/
+
+# Nuget Packages
+*.nupkg
+*.snupkg
+.nuget/
