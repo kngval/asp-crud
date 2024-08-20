@@ -1,5 +1,7 @@
-using Microsoft.EntityFrameworkCore;
 using asp_crud.Entities;
+using Microsoft.EntityFrameworkCore;
+
+namespace asp_crud.Data;
 
 public class TodoContext:DbContext {
 
